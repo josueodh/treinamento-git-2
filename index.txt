@@ -1,1 +1,2 @@
 Treinamento GITs
+Adicionando novo teste
